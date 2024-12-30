@@ -12,6 +12,8 @@
 
 ### Project overview
 
+---
+
 ![Car sales Dashboard](https://github.com/user-attachments/assets/653e8e96-2e3a-4d6b-a4a9-6863e8f34baf)
 
 
